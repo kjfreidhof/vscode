@@ -34,5 +34,9 @@ Do sudo ./vscode.sh
 
 to install vscode right to your system 
 
- 
+# Update 
+Now we have indivdiual binaries in the releases category just go their and pick what you want to install either vscode or codium 
+
+right here https://github.com/kjfreidhof/vscode/releases/tag/code
+
  # Thanks for downloading and enjoy 
